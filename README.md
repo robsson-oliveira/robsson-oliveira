@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou Robsson Oliveira — Desenvolvedor FullStack 
+Sou Robsson Oliveira — Desenvolvedor FullStack
 📖 Atualmente concluindo o Curso Técnico de Análise e Desenvolvimento de Sistemas
 💻 Developer Back-End | Python | DBA-SQL
 📍 Brasília-DF / Brasil
