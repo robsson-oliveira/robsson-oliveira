@@ -20,7 +20,7 @@ Sou Robsson Oliveira — Desenvolvedor FullStack.
 
 ## Tech Stack
 
-Competências: 🐍 Python (DJango, FastAPI) | ☕ Java (HTML/CSS/JS) 
+Competências: 🐍 Python (DJango, FastAPI) | ☕ Java (HTML/CSS/JS) | 📊 DBA : SQL (My SQL/SQLite/SQL Server)
 
 ---
 
