@@ -29,6 +29,7 @@ Competências: 🐍 Python (DJango, FastAPI) | ☕ Java (HTML/CSS/JS) | 📊 DBA
 - Hackaton — Gerenciamento de Barbearias — Um sistema simples e prático para agendamento de clientes em barbearias cadastradas, fluxogramas simples para agendamento e evitar conflitos de horários. (Deployado: https://hackaton-senai-fullstack.vercel.app/)
 - MyBaby — Sistema para apoio de mulheres gestantes, onde informações simples são passadas, como nutrientes necessários para determinadas semanas, o tamanho do bebe em determinadas semanas e enviar lembretes as mães cadastradas lembrando de consultas de rotina. Um sistema que comecei a desenvolver em virtude a gestação da minha esposa. (Em desenvolvimento)
 - Minhas Cifras — Um sistema pessoal que estou desenvolvendo por hobby mesmo, como músico eu gosto de cantar e tocar, comecei a desenvolver para salvar em meu próprio sistema as músicas que gosto e mais me agradam. (Em desenvolvimento)
+- Outros projetos realizados juntamente com os cursos da plataforma de ensino Alura, projetos simples más que levam a pratica ao extremo, dês de códigos simples a desenvolvimento de API's mais técnicas.
 
 ---
 
