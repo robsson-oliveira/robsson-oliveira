@@ -4,7 +4,7 @@ Sou Robsson Oliveira — Desenvolvedor FullStack.
 
 📖 Atualmente concluindo o Curso Técnico de Análise e Desenvolvimento de Sistemas.
 
-💻 Developer Back-End | Python | DBA-SQL.
+💻 Developer Back-End | Java | Python | DBA-SQL.
 
 📍 Brasília-DF / Brasil.
 
@@ -13,14 +13,14 @@ Sou Robsson Oliveira — Desenvolvedor FullStack.
 ## Sobre mim
 
 - Dev Treinee.
-- Meu foco em estudo atualmente são frameworks fullstack em Python.
-- Meu maior objetivo na área de TI é trazer o recurso necessário para mim poder custear a qualidade de vida para mim, minha esposa e minha filha.
+- Meu foco em estudo atualmente é para realizar a minha primeira certificação - Oracle Certified Associate, Java SE 8 Programmer I (1Z0-808).
+- Meu maior objetivo na área de TI é trazer o recurso necessário para poder custear a qualidade de vida para mim, minha esposa e minha filha.
 
 ---
 
 ## Tech Stack
 
-Competências: 🐍 Python (DJango, FastAPI) | ☕ Java (HTML/CSS/JS) | 📊 DBA : SQL (My SQL/SQLite/SQL Server)
+Competências: ☕ Java | 🐍 Python (DJango, FastAPI)| 📊 DBA : SQL (My SQL/SQLite/SQL Server)
 
 ---
 
