@@ -6,7 +6,7 @@ Sou Robsson Oliveira — Desenvolvedor Back-End e futuro Engenheiro de Dados.
 
 🧑‍💻 Atuo como Operador de Monitoramento (NOC) na empresa GlobalWeb.
 
-💻 Developer Back-End | Java | Python | DBA-SQL | Operador NOC.
+💻 Developer Back-End Java & Python | DBA-SQL | Operador NOC | Engenheiro de Dados (learning)
 
 📍 Brasília-DF / Brasil.
 
